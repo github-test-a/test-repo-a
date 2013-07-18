@@ -12,7 +12,6 @@ Or what?
 
 1. More complex
 2. Numbered
-    
     - and sub
     - sub
 
