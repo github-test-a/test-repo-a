@@ -18,8 +18,6 @@ Or what?
         cd bla
         mvn trasjdskdj
 
-    - blub
-
 3. tralllala
 
 
